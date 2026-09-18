@@ -45,6 +45,7 @@ pnpm-lock.yaml
 .metro/
 dist/
 
+
 # Android-специфичные файлы
 android/app/build/
 android/.gradle/
